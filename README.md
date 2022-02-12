@@ -1,12 +1,12 @@
 # ESD Windows 7 Professional
 
 ---
-## Overview:
+## Overview
 - MSDN Windows 7 Professional
 - MSDN Windows 10 Enterprise LTSC (21H2)
 
 ---
-## ISO capabilities:
+## ISO capabilities
 - 64-bit and English (United States) language
 - Legacy BIOS and UEFI (requires CSM to be enabled)
 - Boots on USB 3.x ports
@@ -14,21 +14,21 @@
 - ESD file
 
 ---
-## Integrated (System):
+## Integrated (System)
 - Collective (W)LAN & NVMe drivers
 - Microsoft DaRT 7
 - Extended Security Updates (ESU) until 2023
 
 ---
-## Integrated (Add-ons):
+## Integrated (Add-ons)
 - DirectX End-User Runtimes (June 2010)
 - Microsoft .NET Framework 4.8
 - Microsoft Visual C++ Redistributable
 
 ---
-## Integrated Updates:
+## Integrated Updates
 Internet Explorer 11 with English Hypenation & Spelling   
-KB5009610, KB5008867, KB4575903, KB3125574, KB5006749,   
+KB5010404, KB5008867, KB4575903, KB3125574, KB5010451,   
 KB4490628, KB4474419, KB4019990, KB3184143, KB3179573,   
 KB3161949, KB3161102, KB3159398, KB3156016, KB3138612,   
 KB3102429, KB3087873, KB3064209, KB3059317, KB3046269,   
@@ -40,7 +40,25 @@ KB2685811, KB2670838, KB2667402, KB2603229, KB2592687,
 KB2574819, KB2547666, KB2545698, KB2533552, KB917607   
 
 ---
+## Download Links (Archive)
+- <img src="https://img.shields.io/badge/status:-available-green" />  
+ 
+  - [Drive](https://kutt.it/PufGOJ)   
+  - [Mediafire](https://kutt.it/7gvtSd)   
+
+- <img src="https://img.shields.io/badge/status:-maintenance-orange" />
+
+  - [Sourceforge](https://kutt.it/oiNgCh)    
+
+
+---
 ## Change Log:
+- 2022-02   
+  - Added KB5010404 with telemetry and processor check disabled (replaces KB5009610 and KB5010798)   
+  - Added KB5010451 (replaces KB5006749)   
+  - .NET 4.8 Rollup Update KB5010457 (4.8.4480.1)   
+  - Visual C++ 2022 Redistributable - 14.31.31103.0   
+
 - 2022-01   
   - Added KB5009610 with telemetry and processor check disabled (replaces KB5008244)   
   - Added KB5008867 (replaces KB4578952)   
@@ -108,7 +126,15 @@ KB2574819, KB2547666, KB2545698, KB2533552, KB917607
   - Initial public release   
 
 ---
-## Checksums:
+## Checksums
+- 2022-02
+```
+   File: Win7.Professional.x64.gloeyisk.220211.iso
+    MD5: 6BE71BC504AC7F8D6334E2B4D5F317B4
+  SHA-1: CB153CFABC31F868F44B5C17F6022637CE6E93F2
+SHA-256: F8D47824C60C7D4779F26094A69CE22C035F419CB1529A14F5E41C8EFE5E86E5
+```
+
 - 2022-01
 ```
    File: Win7.Professional.x64.gloeyisk.220114.iso
@@ -206,7 +232,7 @@ SHA-256: 1F131D388C49D90D3BC5D55496BB9F805B5F11E9DAEA2D161CB4B889AA0079D7
 ```
 
 ---
-## Credits:
+## Credits
 - Enthousiast / Windows 7 Tools
 - abbodi1406 / BypassESU - WA Add-ons
 - simplix / UpdatePack7R2
@@ -214,5 +240,5 @@ SHA-256: 1F131D388C49D90D3BC5D55496BB9F805B5F11E9DAEA2D161CB4B889AA0079D7
 - Visual Basic and Visual C++ are registered trademarks of Microsoft Corporation
 
 ---
-## Extras:
+## Extras
 - Donations: [PayPal](https://paypal.me/gloeyisk) - [LiberaPay](https://liberapay.com/gloeyisk)
