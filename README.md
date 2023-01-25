@@ -1,34 +1,26 @@
 # ESD Windows 7 Professional
 
----
-## Overview
+## Overview & ISO capabilities
 - MSDN Windows 7 Professional
-- MSDN Windows 10 Enterprise LTSC (21H2)
-
----
-## ISO capabilities
-- 64-bit and English (United States) language
+- MSDN Windows 10 Pro (22H2)
+- 64-bit and Single Language (English-US)
+- Supports other languages after installation
 - Legacy BIOS and UEFI (requires CSM to be enabled)
 - Boots on USB 3.x ports
 - Fits on FAT32 formatted USB keys and DVD5
 - ESD file
 
----
-## Integrated (System)
-- Collective (W)LAN & NVMe drivers
+## Integrated System & Add-ons
+- Collective (W)LAN, NVMe, USB 3.x drivers
 - Microsoft DaRT 7
 - Extended Security Updates (ESU) until 2023
-
----
-## Integrated (Add-ons)
 - DirectX End-User Runtimes (June 2010)
 - Microsoft .NET Framework 4.8
 - Microsoft Visual C++ Redistributable
 
----
 ## Integrated Updates
 Internet Explorer 11 with English Hypenation & Spelling   
-KB5010404, KB5008867, KB4575903, KB3125574, KB5010451,   
+KB5022338, KB5020861, KB4575903, KB3125574, KB5017397,   
 KB4490628, KB4474419, KB4019990, KB3184143, KB3179573,   
 KB3161949, KB3161102, KB3159398, KB3156016, KB3138612,   
 KB3102429, KB3087873, KB3064209, KB3059317, KB3046269,   
@@ -39,11 +31,9 @@ KB2750841, KB2732059, KB2729094, KB2698365, KB2685813,
 KB2685811, KB2670838, KB2667402, KB2603229, KB2592687,   
 KB2574819, KB2547666, KB2545698, KB2533552, KB917607   
 
----
 ## Download Links (Archive)
 - <img src="https://img.shields.io/badge/status:-available-green" />  
  
-  - [Drive](https://kutt.it/PufGOJ)   
   - [Mediafire](https://kutt.it/7gvtSd)   
 
 - <img src="https://img.shields.io/badge/status:-maintenance-orange" />
@@ -51,8 +41,17 @@ KB2574819, KB2547666, KB2545698, KB2533552, KB917607
   - [Sourceforge](https://kutt.it/oiNgCh)    
 
 
----
 ## Change Log:
+- 2023-01   
+  - Added KB5022338 with telemetry and processor check disabled (replaces KB5021291)   
+  - .NET 4.8 Rollup Update KB5020879 (4.8.4590.2)   
+  - Visual C++ 2022 Redistributable - 14.34.31931.0    
+  - Updated boot.wim from Windows 10 Pro 10.0.19045.2006 Version 22H2   
+  - Updated collective drivers   
+
+<details>
+  <summary>Older builds</summary>
+  
 - 2022-02   
   - Added KB5010404 with telemetry and processor check disabled (replaces KB5009610 and KB5010798)   
   - Added KB5010451 (replaces KB5006749)   
@@ -124,9 +123,21 @@ KB2574819, KB2547666, KB2545698, KB2533552, KB917607
 
 - 2020-11   
   - Initial public release   
+  
+</details>
 
----
 ## Checksums
+- 2023-01
+```
+   File: Win7.Professional.x64.gloeyisk.230119.iso
+    MD5: 19D26BEBEE111D0CBC1CD651BF87B1B0
+  SHA-1: 0A08681FFF4DD1DF673965F5883B1241F9079217
+SHA-256: DAC93D0AF9C407B627D1CD30D955715383A9422B978162C6B8ABF22C35E3F266
+```
+
+<details>
+  <summary>Older builds</summary>
+
 - 2022-02
 ```
    File: Win7.Professional.x64.gloeyisk.220211.iso
@@ -231,14 +242,14 @@ SHA-256: 2B0489E50A5500BC81DD9ECB3CAD4117FA0F959181874D3F7B13BAFBF8223F48
 SHA-256: 1F131D388C49D90D3BC5D55496BB9F805B5F11E9DAEA2D161CB4B889AA0079D7
 ```
 
----
+</details>
+
 ## Credits
-- Enthousiast / Windows 7 Tools
-- abbodi1406 / BypassESU - WA Add-ons
+- Enthousiast / Windows 7 Creation Tools
+- abbodi1406 / BypassESU - .WA Add-ons
 - simplix / UpdatePack7R2
 - Microsoft .NET Framework is an intellectual property of Microsoft Corporation
 - Visual Basic and Visual C++ are registered trademarks of Microsoft Corporation
 
----
 ## Extras
-- Donations: [PayPal](https://paypal.me/gloeyisk) - [LiberaPay](https://liberapay.com/gloeyisk)
+- Donations: [PayPal](https://paypal.me/gloeyisk) - [LiberaPay](https://liberapay.com/gloeyisk) - [Ko-fi](https://ko-fi.com/gloeyisk)
