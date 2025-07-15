@@ -1,7 +1,6 @@
 # Collective Windows 7 ESD Repository
 
 ## Overview 
-- MSDN Windows 7 Home Premium (676549) with Service Pack 1
 - MSDN Windows 7 Professional (677791) with Service Pack 1
 - MSDN Windows 10 Enterprise LTSB 2016 (9059483) Build 14393
 
@@ -23,38 +22,34 @@
 
 ## Integrated Updates
 Internet Explorer 11 with English Hypenation & Spelling   
-KB5022338, KB5020861, KB4575903, KB3125574, KB5017397,   
-KB4490628, KB4474419, KB4019990, KB3184143, KB3179573,   
-KB3161949, KB3161102, KB3159398, KB3156016, KB3138612,   
-KB3102429, KB3087873, KB3064209, KB3059317, KB3046269,   
-KB3006137, KB3004375, KB2990941, KB2984972, KB2970228,   
-KB2919469, KB2900986, KB2894844, KB2864202, KB2862330,   
-KB2834140, KB2830477, KB2818604, KB2773072, KB2761217,   
-KB2750841, KB2732059, KB2729094, KB2698365, KB2685813,   
-KB2685811, KB2670838, KB2667402, KB2603229, KB2592687,   
-KB2574819, KB2547666, KB2545698, KB2533552, KB917607   
+KB5062632, KB5044011, KB3125574, KB5056456, KB4490628,   
+KB4474419, KB4019990, KB3184143, KB3179573, KB3161949,   
+KB3161102, KB3159398, KB3156016, KB3138612, KB3102429,   
+KB3087873, KB3064209, KB3059317, KB3046269, KB2990941,   
+KB2900986, KB2864202, KB2830477, KB2818604, KB2761217,   
+KB2750841, KB2729094, KB2685813, KB2685811, KB2670838,   
+KB2603229, KB2592687, KB2574819, KB2545698, KB2533552,   
+KB917607   
 
-## Download Links (Archives)
-- [SourceForge](https://kutt.it/UyChXz)
+## Download Links (Archive)
+- [MediaFire](https://kutt.it/9v7hkG)
 
 ## Change Log
-- 2023-01 Revised   
-Added KB5022338 with telemetry and processor check disabled (replaces KB5021291)   
-.NET 4.8 Rollup Update KB5020879 (4.8.4590.2)   
-Visual C++ 2022 Redistributable - 14.34.31931.0    
-Reverted boot.wim from Windows 10 Enterprise LTSB (9059483) Build 14393   
+- 2025-07   
+Added KB5062632 with telemetry and processor check disabled (replaces KB5061078)   
+Certificate update similar to KB931125 and KB2917500 for July 2025   
+.NET 4.8 Rollup Update KB5062065 (4.8.4795.2)   
+Visual C++ 2022 Redistributable - 14.44.35211.0   
+Dropped support for Windows 7 Home Premium edition   
 Updated collective drivers   
+Windows 8 NVMe backport   
 
 ## Checksums
-- 2023-01 Revised
+- 2025-07
 ```
-   File: wvii-home_premium.x64.gloeyisk.230111.iso
-  SHA-1: 999174020211c5ce7cc1d517ad4fff4210993d79
-SHA-256: 36a0280384b58752007655bbc280eb5b308b1248be6ecb82933e0aba7148d88a
-
-   File: wvii-professional.x64.gloeyisk.230111.iso
-  SHA-1: 67d8866c07a640aa9f021a709f3fa4b66e53f5fd
-SHA-256: 8ac5967e15c487c18f59db9316884a8f9c8757ce20674eb57c6047fe89226e82
+   File: wvii-professional_x64_gloeyisk_250715.iso
+  SHA-1: 4f0e0bf3a04437843545090c153273d8c0b95af8
+SHA-256: dd9ad4778707daea7e02646040afc86cebe5c1c73ff4099bc8232f413c7b8a55
 ```
 
 ## Credits
