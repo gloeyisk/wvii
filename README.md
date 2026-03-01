@@ -1,7 +1,12 @@
 # Collective Windows 7 ESD Repository
 
 ## Overview 
-- MSDN Windows 7 Professional (677791) with Service Pack 1
+- MSDN Windows 7 Starter (678562) with Service Pack 1
+- MSDN Windows 7 Home Basic (676470) with Service Pack 1
+- MSDN Windows 7 Home Premium (676549) with Service Pack 1
+- MSDN Windows 7 Professional (676939) with Service Pack 1
+- MSDN Windows 7 Ultimate (677332) with Service Pack 1
+- MSDN Windows 7 Enterprise (677651) with Service Pack 1
 - MSDN Windows 10 Enterprise LTSB 2016 (9059483) Build 14393
 
 ## ISO Capabilities
@@ -22,7 +27,7 @@
 
 ## Integrated Updates
 Internet Explorer 11 with English Hypenation & Spelling   
-KB5062632, KB5044011, KB3125574, KB5056456, KB4490628,   
+KB5073695, KB5066150, KB3125574, KB5071810, KB4490628,   
 KB4474419, KB4019990, KB3184143, KB3179573, KB3161949,   
 KB3161102, KB3159398, KB3156016, KB3138612, KB3102429,   
 KB3087873, KB3064209, KB3059317, KB3046269, KB2990941,   
@@ -32,24 +37,24 @@ KB2603229, KB2592687, KB2574819, KB2545698, KB2533552,
 KB917607   
 
 ## Download Links (Archive)
-- [MediaFire](https://kutt.it/9v7hkG)
+- [MediaFire](https://tinyurl.com/gldpwin7)
+- [Telegram](https://tinyurl.com/gldptg)
 
 ## Change Log
-- 2025-07   
-Added KB5062632 with telemetry and processor check disabled (replaces KB5061078)   
-Certificate update similar to KB931125 and KB2917500 for July 2025   
-.NET 4.8 Rollup Update KB5062065 (4.8.4795.2)   
-Visual C++ 2022 Redistributable - 14.44.35211.0   
-Dropped support for Windows 7 Home Premium edition   
+- 2026-01   
+All-in-One Windows 7 Operating Systems   
+Final update of official Premium Assurance Extended Security Updates (ESU) for Windows 7   
+Added KB5073695 with telemetry and processor check disabled (replaces KB5071501)   
+.NET 4.8 Rollup Update KB5066141 (4.8.4798.4)   
+Visual C++ v14 (2026) Redistributable - 14.50.35719.0   
 Updated collective drivers   
-Windows 8 NVMe backport   
-
+ 
 ## Checksums
-- 2025-07
+- 2026-01
 ```
-   File: wvii-professional_x64_gloeyisk_250715.iso
-  SHA-1: 4f0e0bf3a04437843545090c153273d8c0b95af8
-SHA-256: dd9ad4778707daea7e02646040afc86cebe5c1c73ff4099bc8232f413c7b8a55
+   File: wvii_AIO_x64_gloeyisk_260228.iso
+  SHA-1: 09c880c1ed7c5a7065b2729703101e4f163e676e
+SHA-256: b172d09fcf4e68ea0e4da45068dece9265f78a5f4ce7973d54a73afa70084c11
 ```
 
 ## Credits
